@@ -1,0 +1,10 @@
+8
+#Pesho: 02:00 @Sofia
+@Sofia #Peshop:  02:00
+#Peshot: @Sofia
+#Ani: @Sofia 11:89 11:89
+#Ani:  4:3 15:67 @Sofia
+#Mincho: @Plovdiv-13:-59
+#TriFon: @Plovdiv 0:0
+#TriFon:@Plovdiv23:00
+Sofia,Plovdiv
